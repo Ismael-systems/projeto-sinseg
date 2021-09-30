@@ -1,0 +1,6 @@
+.menu-area{
+    background-color:rgb(235, 235, 235);
+    display:flexbox;
+    justify-content: center;
+    align-items:center;
+}

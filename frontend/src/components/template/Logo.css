@@ -1,0 +1,11 @@
+.logo{
+    background-color:rgb(235, 235, 235);
+    display:inline-flexbox;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo img {
+    padding: 0px 0px;
+    width: 100%;
+}

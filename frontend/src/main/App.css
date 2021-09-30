@@ -1,0 +1,35 @@
+.app {
+    margin: 0px;
+    display: grid; 
+    
+    
+    grid-template:
+    'logo header header header header header'
+    'menu-area content content content content content'
+    'footer footer footer footer footer footer';    
+     grid-template-rows: 100px 100vh;
+     background-color: #d6d6d6;
+     grid-gap: 3px;
+   
+     padding: 3px;
+   
+     grid-template-columns: 300px 100vh;
+    
+}
+
+
+.app > div {
+    background-color: rgba(156, 182, 184, 0.89);
+    text-align: center;
+    padding: 2px 0;
+    
+    
+}
+
+.logo { grid-area: logo; }
+.header { grid-area: header; }
+.menu-area { grid-area: menu-area; }
+.content { grid-area: content; }
+.footer { grid-area: footer; }
+ 
+  

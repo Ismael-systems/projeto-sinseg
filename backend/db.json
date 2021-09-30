@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Ismael",
+      "email": "ismaelbispodossantos@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Roseli",
+      "email": "worldsystems.com.br@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Kathellyn",
+      "email": "kathellyn@gmail.com",
+      "id": 3
+    }
+  ]
+}
